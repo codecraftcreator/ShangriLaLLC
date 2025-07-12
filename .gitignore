@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs/ShangriLaLLC/CopilotIndices/17.12.53.23981/CodeChunks.db
+/.vs/ShangriLaLLC/CopilotIndices/17.12.53.23981/CodeChunks.db-shm
+/.vs/ShangriLaLLC/CopilotIndices/17.12.53.23981/CodeChunks.db-wal
+/.vs/ShangriLaLLC/CopilotIndices/17.12.53.23981/SemanticSymbols.db
+/.vs/ShangriLaLLC/CopilotIndices/17.12.53.23981/SemanticSymbols.db-shm
+/.vs/ShangriLaLLC/CopilotIndices/17.12.53.23981/SemanticSymbols.db-wal
+/.vs/ShangriLaLLC/FileContentIndex/9eb8f68e-7819-43ad-9f6e-76bedcf083fe.vsidx
+/.vs/ShangriLaLLC/FileContentIndex/d9cd58fb-4139-45dc-b6de-5c6ff0c8e3c1.vsidx
+/.vs/ShangriLaLLC/v17
+/.vs/ShangriLaLLC/v17/.wsuo
+/.vs/ShangriLaLLC/v17/DocumentLayout.json
+/.vs/ShangriLaLLC/config/applicationhost.config
+/.vs/ShangriLaLLC/FileContentIndex/888a21bf-618e-498e-8e06-86a68b024550.vsidx
+/.vs/VSWorkspaceState.json
+/.vs/ShangriLaLLC/FileContentIndex/ac6483f1-0487-4cae-8f6c-e482cd4bfb11.vsidx
