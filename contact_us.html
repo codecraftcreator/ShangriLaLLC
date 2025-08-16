@@ -62,18 +62,26 @@
 					<section id="contact">
 						<div class="inner">
 							<section>
-							    <div class="row">
-										<div class="col-6 col-12-small">
-											<h4>Navigation</h4>
-											<ul>
-												<li><a href="index.html">Home</a></li>							
-												<li><a href="services.html">Our Services</a></li>
-												<li><a href="about_us.html">About Us</a></li>
-												<li><a href="careers.html">Careers</a></li>
-												<li><a href="contact_us.html">Contact Us</a></li>
-											</ul>
-										</div>														
-								</div>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name">
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email">
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary"></li>
+										<li><input type="reset" value="Clear"></li>
+									</ul>
+								</form>
 							</section>
 							<section class="split">
 								<section>
@@ -95,9 +103,7 @@
 										<span class="icon solid alt fa-home"></span>
 										<h3>Address</h3>
 										<span>
-											277 University Cir<br />
-											Hooksett, NH 03106<br />
-											United States of America
+											277 University Cir, Hooksett, NH 03106										
 										</span>
 									</div>
 								</section>
@@ -106,13 +112,7 @@
 					</section>
 				<!-- Footer -->
 					<footer id="footer">
-						<div class="inner">
-							<ul class="icons">
-								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>								
-								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
-							</ul>
+						<div class="inner">							
 							<ul class="copyright">
 								<li>&copy; Shangri-La LLC</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
 							</ul>
